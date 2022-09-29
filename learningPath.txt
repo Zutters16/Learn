@@ -1,0 +1,18 @@
+Learning Path 
+- HTML Dasar
+- CSS Dasar
+- CSS layouting
+- CSS Frameworl (Bootstrap)
+- CSS pre-Processor
+- HTML 5
+- CSS 3
+- Javascript Dasar
+- Javascript DOM
+- Javascript Modern (Lanjutan) & API
+- NPM
+- Javascript Framework (NodeJS, ReactJS, ExJS, NextJS, VueJS)
+- PHP Dasar
+- PHP OOP
+- MVC
+- PHP Framework (Codeigniter, Laravel)
+- Database
