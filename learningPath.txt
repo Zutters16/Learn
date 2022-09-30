@@ -1,8 +1,8 @@
 Learning Path 
 ========================================================================
-- HTML Dasar (Clear)
-- CSS Dasar
-- CSS layouting
+- HTML Dasar                                            (Clear)
+- CSS Dasar                                             (Clear)
+- CSS layouting                                         (Progres)
 - CSS Frameworl (Bootstrap)
 - CSS pre-Processor
 - HTML 5
