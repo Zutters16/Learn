@@ -1,6 +1,6 @@
 Learning Path 
 ========================================================================
-- HTML Dasar
+- HTML Dasar (Clear)
 - CSS Dasar
 - CSS layouting
 - CSS Frameworl (Bootstrap)
